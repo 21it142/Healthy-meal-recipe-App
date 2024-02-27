@@ -1,6 +1,6 @@
-# meals
+# Healthy Meal Recipe App 
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
